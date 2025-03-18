@@ -1,5 +1,5 @@
 # amigoSecreto
-codidgo de practica amigo secreto de oracle/alura.
+codigo de practica amigo secreto de oracle/alura.
 
 Sorteo de Participantes
 Aplicación simple para crear una lista de participantes y realizar sorteos aleatorios sin repetición.
